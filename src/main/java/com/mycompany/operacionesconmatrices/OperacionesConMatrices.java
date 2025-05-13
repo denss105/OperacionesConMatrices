@@ -14,7 +14,7 @@ public class OperacionesConMatrices {
      
         int[][] matrizA={
             {1,2,3},
-            {5,6,7},
+            {4,5,6},
         };
         
     int[][]matrizB={
